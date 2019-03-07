@@ -1,5 +1,6 @@
 # image-processing
 Practice project: Basic edge and shape detection using PHP
+
 Von Simmons, December 2018
 
 This project had a lot of versions. Go to the following to see the most current:
